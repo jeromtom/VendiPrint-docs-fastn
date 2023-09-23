@@ -1,40 +1,24 @@
--- ds.page: Welcome to doc-site
+-- ds.page: VendiPrint Docs
 
+-- ds.h3: VendiPrint is a UPI-Enabled Automated Printing technology that allows you to pay and print while keeping your documents secure.
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+-- ds.markdown: 
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+**Steps:**
+1. Scan the QR code near the printer
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+2. Upload your documents, customise your print and proceed to the payment.
 
--- ds.h3: 🚀 Fast Track 
+3.  Complete the transaction and get your print seamlessly.
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
+-- ds.h3: 👀 Want develop this in your own college?
 
--- ds.h3: 🌟 Whats next?
+**Steps:**
+1. Setup a CUPS-based Print Server on a Linux machine. Checkout the documentation for a [Raspberry Pi Print Server](https://pimylifeup.com/raspberry-pi-print-server/).
 
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
+2. Get a UPI-based Payment Gateway API from Payment Gateway Providers like Razorpay, PayTM Business API, etc.
 
--- ds.h3: 👀 Want to learn more?
+3. Follow our code on [GitHub](https://github.io/) to understand how to integrate both of these technologies to create a UPI-enabled automated printing technology.
 
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
-
--- ds.h3: 🎯 Used by?
-
-Our all documentation sites uses this `doc-site` theme.
-
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
-
--- ds.h2: Learn fastn and become a pro?
-
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
 
 -- end: ds.page
